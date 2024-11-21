@@ -164,6 +164,7 @@
                       "resourceType": "route",
                       "resourceId": "49250A12D58A3ED2128AD09A50E5C67F",
                       "actionUrl": "orpheus://album/49250A12D58A3ED2128AD09A50E5C67F",
+                      "title":"测试歌单",
                       "popup": {
                         "push": { "pushPlanId": "1912263" },
                         "iotPopup": {
