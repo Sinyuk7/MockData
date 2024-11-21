@@ -162,8 +162,8 @@
                     {
                       "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/55686697166/c793/7586/e624/06daa1fb71321f4634360996b964e62d.jpg",
                       "resourceType": "route",
-                      "resourceId": "",
-                      "actionUrl": "orpheus://popup",
+                      "resourceId": "49250A12D58A3ED2128AD09A50E5C67F",
+                      "actionUrl": "orpheus://album/49250A12D58A3ED2128AD09A50E5C67F",
                       "popup": {
                         "push": { "pushPlanId": "1912263" },
                         "iotPopup": {
