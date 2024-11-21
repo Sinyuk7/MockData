@@ -57,6 +57,7 @@
                       "resourceType": "song",
                       "resourceId": "29EDC20CD0517AF08AC80D4A03B9DB0C",
                       "actionUrl": "orpheus://song/29EDC20CD0517AF08AC80D4A03B9DB0C",
+                      "title":"APT",
                       "popup": {
                         "push": { "pushPlanId": "" },
                         "iotPopup": {
@@ -126,6 +127,7 @@
                       "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/56305978847/52d4/f915/3c69/7e6f47c55a33a10b330726fce67b29dd.jpg",
                       "resourceType": "song",
                       "resourceId": "CE4429B1D12122F6286566D8EDB9699B",
+                      "title":"天蝎座",
                       "actionUrl": "orpheus://song/CE4429B1D12122F6286566D8EDB9699B",
                       "popup": {
                         "push": { "pushPlanId": "" },
